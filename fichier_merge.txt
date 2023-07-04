@@ -2,10 +2,11 @@ Nouvelle liste de courses 1
 
 pommes
 avocats
+poires
 carottes
 oranges
 noix de pécan
 
 
-
-cacahuètes
+pruneaux
+abricots
