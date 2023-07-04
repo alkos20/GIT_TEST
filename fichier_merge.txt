@@ -1,5 +1,8 @@
-Liste de courses
+Je suis sur la branche main
+Nouvelle liste de courses 2
 
 pommes
 bananes
 carottes
+amandes 
+cacahuètes
