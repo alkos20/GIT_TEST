@@ -2,7 +2,8 @@ Je suis sur la branche main
 Nouvelle liste de courses 2
 
 pommes
-bananes
+avocats
 carottes
+noix de pécan
 amandes 
 cacahuètes
