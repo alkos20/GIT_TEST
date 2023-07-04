@@ -1,9 +1,11 @@
-Je suis sur la branche main
-Nouvelle liste de courses 2
+Liste de courses 2  
 
 pommes
 avocats
+poires
 carottes
 noix de pécan
-amandes 
-cacahuètes
+
+
+pruneaux
+abricots
