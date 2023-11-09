@@ -1,0 +1,3 @@
+Ce fichier a été rajouté sur la branche master. 
+
+Il faut qu'il apparaisse dans la branche test_branch_merge après le merge. 
