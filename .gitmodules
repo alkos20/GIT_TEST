@@ -1,0 +1,3 @@
+[submodule "bootcamp_python"]
+	path = bootcamp_python
+	url = git@github.com:alkos20/bootcamp_python.git
